@@ -11,6 +11,9 @@ azure-identity = "^1.17.1"
 msgraph-sdk = "^1.4.0"
 requests = "^2.32.3"
 beautifulsoup4 = "^4.12.3"
+llama-index-readers-database = "^0.1.4"
+llama-index = "^0.10.51"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
